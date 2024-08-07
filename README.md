@@ -5,3 +5,4 @@ Most of the code is in Python and uses standard packages and packages from bioco
 
 Raw sequencing data are available at https://www.ncbi.nlm.nih.gov/sra/PRJNA1144948 and will be needed to reproduce the analysis.
 
+[![DOI](https://zenodo.org/badge/838587520.svg)](https://zenodo.org/doi/10.5281/zenodo.13257155)
